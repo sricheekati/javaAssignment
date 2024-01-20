@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/S572818/Documents/NetBeansProjects/S572818Assignment01/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/S572818/Documents/NetBeansProjects/S572818Assignment01/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'S572818Assignment01 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/S572818/Documents/NetBeansProjects/S572818Assignment01/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'S572818Assignment01 1.0-SNAPSHOT API'
+edu.nwmissouri.spring24.cs44542.sec03.objects
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\src\main\java = 1705595346500
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\allclasses-index.html = 1705616304689
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\allclasses.html = 1705616304717
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\allpackages-index.html = 1705616304693
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\constant-values.html = 1705616304589
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\deprecated-list.html = 1705616304708
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\element-list = 1705616304563
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\help-doc.html = 1705616304730
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\index-all.html = 1705616304679
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\index.html = 1705616304718
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\jquery-ui.overrides.css = 1705616305698
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\member-search-index.js = 1705616304670
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\member-search-index.zip = 1705616304670
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\overview-tree.html = 1705616304628
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\package-search-index.js = 1705616304638
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\package-search-index.zip = 1705616304658
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\script.js = 1705616304821
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\search.js = 1705616304921
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\stylesheet.css = 1705616304753
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\type-search-index.js = 1705616304668
+C:\Users\S572818\Documents\NetBeansProjects\S572818Assignment01\target\site\apidocs\type-search-index.zip = 1705616304670

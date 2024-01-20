@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.nwmissouri.spring24.cs44542.sec03.objects","l":"S572818Assignment01"},{"p":"edu.nwmissouri.spring24.cs44542.sec03.objects","l":"StringsAndNumbers"}]
